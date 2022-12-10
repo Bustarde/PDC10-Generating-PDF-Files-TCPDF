@@ -1,0 +1,17 @@
+{
+    "name": "user/pdc10-generating-pdf-tcpdf",
+    "autoload": {
+        "psr-4": {
+            "User\\Pdc10GeneratingPdfTcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bustarde",
+            "email": "bustarde.audriel@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
